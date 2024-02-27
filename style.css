@@ -1,0 +1,24 @@
+*{
+    background-color: black;
+}
+
+.container{
+    width: 25%;
+    height: 90vh;
+    display: flex;
+    gap: 5px;
+}
+
+.container img{
+    width: 20%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid white;
+    transition: all ease-out 0.8s;
+    cursor: pointer;
+}
+
+.container img:hover{
+    width: 100%;
+}
