@@ -1,8 +1,7 @@
 
 # CSS Animation || Hover effects 
 
-Website countdown using HTML, CSS and Javascript
-
+Website countdown using HTML and CSS
 
 ## Authors
 
